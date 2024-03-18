@@ -1,0 +1,7 @@
+dist
+
+.idea
+test/gethData
+test/config/genesis.json
+test/config/test-member.keystore
+test/config/sequencer.keystore
